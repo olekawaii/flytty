@@ -1,0 +1,30 @@
+! !name
+*.foreground:  #!7
+*.background:  #!0
+*.cursorColor: #!7
+!
+*.color0:      #!0
+*.color8:      #!8
+!
+*.color1:      #!1
+*.color9:      #!1
+!
+*.color2:      #!2
+*.color10:     #!2
+!
+*.color3:      #!3
+*.color11:     #!3
+!
+*.color4:      #!4
+*.color12:     #!4
+!
+*.color5:      #!5
+*.color13:     #!5
+!
+*.color6:      #!6
+*.color14:     #!6
+!
+*.color7:      #!7
+*.color15:     #!7
+!
+*.colorBD:     #!7

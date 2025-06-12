@@ -1,0 +1,42 @@
+// open cosmic-term > View > Color schemes > (select light or dark) > Import
+// to select this theme go to
+// View > Appearence
+
+(
+    name: "tokyonight_day",
+    foreground: "#3760bf",
+    background: "#e1e2e7",
+    cursor: "#3760bf",
+    bright_foreground: "#3760bf",
+    dim_foreground: "#a1a6c5",
+    normal: (
+        black: "#e1e2e7",
+        red: "#f52a65",
+        green: "#587539",
+        yellow: "#8c6c3e",
+        blue: "#2e7de9",
+        magenta: "#9854f1",
+        cyan: "#007197",
+        white: "#3760bf"
+    ),
+    bright: (
+        black: "#a1a6c5",
+        red: "#f52a65",
+        green: "#587539",
+        yellow: "#8c6c3e",
+        blue: "#2e7de9",
+        magenta: "#9854f1",
+        cyan: "#007197",
+        white: "#3760bf"
+    ),
+    dim: (
+        black: "#a1a6c5",
+        red: "#f52a65",
+        green: "#587539",
+        yellow: "#8c6c3e",
+        blue: "#2e7de9",
+        magenta: "#9854f1",
+        cyan: "#007197",
+        white: "#3760bf"
+    ),
+)

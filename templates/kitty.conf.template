@@ -1,0 +1,52 @@
+## name: !name
+
+foreground               #!7
+background               #!0
+selection_foreground     #!0
+selection_background     #!7
+
+cursor                   #!7
+cursor_text_color        #!0
+
+url_color                #!6
+
+active_tab_foreground    #!7
+active_tab_background    #!0
+inactive_tab_foreground  #!8
+inactive_tab_background  #!0
+
+active_border_color      #!2
+inactive_border_color    #!8
+
+# black
+color0   #!0
+color8   #!8
+
+# red
+color1   #!1
+color9   #!1
+
+# green
+color2   #!2
+color10  #!2
+
+# yellow
+color3   #!3
+color11  #!3
+
+# blue
+color4   #!4
+color12  #!4
+
+# magenta
+color5   #!5
+color13  #!5
+
+# cyan
+color6   #!6
+color14  #!6
+
+# white
+color7   #!7
+color15  #!7
+

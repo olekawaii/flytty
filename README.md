@@ -1,6 +1,14 @@
+# Installation
+The flytty script is posix-compliant. Install it with
+```
+git clone https://github.com/olekawaii/flytty.git
+cd flytty
+./script themes/gruvbox_material_dark_medium templates/linux_tty.sh.template
+```
+
 # Usage
-The script is posix-compliant. Run it with `./script a b` where a is a file in the themes/ directory 
-and b is a file in the templates/ directory.
+Run it with `./script a b` where a is a file
+in the themes/ directory and b is a file in the templates/ directory.
 
 Example:
 ```

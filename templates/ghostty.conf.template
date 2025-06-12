@@ -1,0 +1,23 @@
+palette = 0=#!0
+palette = 1=#!1
+palette = 2=#!2
+palette = 3=#!3
+palette = 4=#!4
+palette = 5=#!5
+palette = 6=#!6
+palette = 7=#!7
+palette = 8=#!8
+palette = 9=#!1
+palette = 10=#!2
+palette = 11=#!3
+palette = 12=#!4
+palette = 13=#!5
+palette = 14=#!6
+palette = 15=#!7
+background = #!0
+foreground = #!7
+cursor-color = #!7
+cursor-text = #!0
+selection-background = #!7
+selection-foreground = #!0
+
