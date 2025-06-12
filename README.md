@@ -1,6 +1,5 @@
 # Usage
-the script is posix-compliant. you can run it anywhere
-run the script with `./script a b` where a is a file in the themes/ directory 
+The script is posix-compliant. Run it with `./script a b` where a is a file in the themes/ directory 
 and b is a file in the templates/ directory.
 
 Example:
