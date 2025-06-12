@@ -1,0 +1,23 @@
+# copypaste this into your bashrc
+
+if [ "$TERM" == "linux" ]; then
+	printf '
+	\033]P0!0
+	\033]P1!1
+	\033]P2!2
+	\033]P3!3
+	\033]P4!4
+	\033]P5!5
+	\033]P6!6
+	\033]P7!7
+	\033]P8!8
+	\033]P9!1
+	\033]PA!2
+	\033]PB!3
+	\033]PC!4
+	\033]PD!5
+	\033]PE!6
+	\033]PF!7
+	'
+	clear
+fi

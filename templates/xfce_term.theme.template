@@ -1,0 +1,9 @@
+/* move this file to ~/.local/share/xfce4/terminal/colorschemes */
+/* Edit > Preferences > Colors > Select Preset */
+
+[Scheme]
+Name=!name
+ColorBackground=#!0
+ColorForeground=#!7
+ColorCursor=#!7
+ColorPalette=#!0;#!1;#!2;#!3;#!4;#!5;#!6;#!7;#!8;#!1;#!2;#!3;#!4;#!5;#!6;#!7

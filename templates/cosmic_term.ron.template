@@ -1,0 +1,42 @@
+// open cosmic-term > View > Color schemes > (select light or dark) > Import
+// to select this theme go to
+// View > Appearence
+
+(
+    name: "!name",
+    foreground: "#!7",
+    background: "#!0",
+    cursor: "#!7",
+    bright_foreground: "#!7",
+    dim_foreground: "#!8",
+    normal: (
+        black: "#!0",
+        red: "#!1",
+        green: "#!2",
+        yellow: "#!3",
+        blue: "#!4",
+        magenta: "#!5",
+        cyan: "#!6",
+        white: "#!7"
+    ),
+    bright: (
+        black: "#!8",
+        red: "#!1",
+        green: "#!2",
+        yellow: "#!3",
+        blue: "#!4",
+        magenta: "#!5",
+        cyan: "#!6",
+        white: "#!7"
+    ),
+    dim: (
+        black: "#!8",
+        red: "#!1",
+        green: "#!2",
+        yellow: "#!3",
+        blue: "#!4",
+        magenta: "#!5",
+        cyan: "#!6",
+        white: "#!7"
+    ),
+)

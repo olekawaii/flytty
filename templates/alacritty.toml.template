@@ -1,0 +1,44 @@
+# copy these into your alacritty.toml file or import with
+#
+# [general]
+# import = [
+#     "path/to/this/file.toml"
+# ]
+
+[colors.primary]
+foreground = "#!7"
+background = "#!0"
+
+[colors.cursor]
+text = "#!0"
+cursor = "#!7"
+
+[colors.normal]
+black = "#!0"
+red = "#!1"
+green = "#!2"
+yellow = "#!3"
+blue = "#!4"
+magenta = "#!5"
+cyan = "#!6"
+white = "#!7"
+
+[colors.bright]
+black = "#!8"
+red = "#!1"
+green = "#!2"
+yellow = "#!3"
+blue = "#!4"
+magenta = "#!5"
+cyan = "#!6"
+white = "#!7"
+
+[colors.dim]
+black = "#!8"
+red = "#!1"
+green = "#!2"
+yellow = "#!3"
+blue = "#!4"
+magenta = "#!5"
+cyan = "#!6"
+white = "#!7"
