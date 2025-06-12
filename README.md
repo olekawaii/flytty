@@ -1,6 +1,12 @@
 # Usage
+the script is posix-compliant. you can run it anywhere
 run the script with `./script a b` where a is a file in the themes/ directory 
 and b is a file in the templates/ directory.
+
+Example:
+```
+./script rose_pine_moon freebsd_tty.conf
+```
 
 ## Colorschemes
 Here is the flexoki theme file. All colorschemes are made up of 9 colors: 
@@ -27,6 +33,8 @@ The templates should also add comments of how to use the theme
 Terminal themes should set dark black to the 0th color instead of 8
 
 # Why
+These themes are easy to parse and work with
+
 The standard terminal colorscheme uses at least 16 colors. These are used to 
 define different brightness versions of red-cyan and the greys used for 
 fg/cursor/bg/dimfg/brightfg/etc. However, in terminal setting you only need 9 
@@ -34,9 +42,8 @@ colors to have a fully functional theme, as is the case in the tty.
 
 The red-cyan colors in this format are also missing a bright/dark variant.
 This is for several reasons:
-
 - It looks better with fewer colors
-- All the popular themes only have one variant of their colors.
+- most popular themes only have one variant of their colors
 - People love to ruin good themes trying to have dark and bright variants:
   - The Solarized theme doesn't have dark/light variants of its colors. How 
     would you defive the dark/bright colors for it? The author hod a genious 
