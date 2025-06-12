@@ -1,9 +1,0 @@
-/* move this file to ~/.local/share/xfce4/terminal/colorschemes */
-/* Edit > Preferences > Colors > Select Preset */
-
-[Scheme]
-Name=nord
-ColorBackground=#2e3440
-ColorForeground=#d8dee9
-ColorCursor=#d8dee9
-ColorPalette=#2e3440;#bf616a;#a3be8c;#ebcb8b;#81a1c1;#b48ead;#88c0d0;#d8dee9;#4c566a;#bf616a;#a3be8c;#ebcb8b;#81a1c1;#b48ead;#88c0d0;#d8dee9
