@@ -3,16 +3,16 @@ The flytty script is posix compliant. Install it with
 ```
 git clone https://github.com/olekawaii/flytty.git
 cd flytty
-./script themes/gruvbox_material_dark_medium templates/linux_tty.sh.template
+# flytty.sh is the executable
 ```
 
 ## Usage
-Run it with `./script a b` where a is a file
-in the themes/ directory and b is a file in the templates/ directory.
+Run it with `./script.sh a b` where a is a file
+in the colors/ directory and b is a file in the templates/ directory.
 
 Example:
 ```
-./script themes/rose_pine_moon templates/freebsd_tty.conf.template
+./flytty.sh colors/rose_pine_moon templates/freebsd_tty.conf.template
 ```
 
 ## Colorschemes
@@ -46,6 +46,13 @@ The standard terminal colorscheme uses at least 16 colors. These are used to
 define different brightness versions of red-cyan and the greys used for 
 fg/cursor/bg/dimfg/brightfg/etc. However, in a terminal setting you only need 9 
 colors to have a fully functional theme, as is the case in the tty. 
+
+Having multiple grey colours is meaningless because there's no consensus on
+what the differences between them are. 
+- Is white brighter than text? 
+- Is bright black brighter than dim text? 
+- Is black the same as the background? 
+Who knows, but I do know how all the colors would look in the tty.
 
 The red-cyan colors in this format are also missing a bright/dark variant.
 This is for several reasons:
