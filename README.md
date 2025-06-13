@@ -40,7 +40,7 @@ The templates should also add comments of how to use the theme
 Terminal themes should set dark black to the 0th color instead of 8
 
 # Why
-These themes are easy to parse and work with
+These themes are easy work with and are not broken
 
 The standard terminal colorscheme uses at least 16 colors. These are used to 
 define different brightness versions of red-cyan and the greys used for 
@@ -60,7 +60,7 @@ This is for several reasons:
 - most popular themes only have one variant of their colors
 - People love to ruin good themes trying to have dark and bright variants:
   - The Solarized theme doesn't have dark/light variants of its colors. How 
-    would you defive the dark/bright colors for it? The author hod a genious 
+    would you define the dark/bright colors for it? The author hod a genious 
     idea: use the 6 red-cyan colors for the dark variant, orange for bright 
     red, violot for bright magenta, and different shades of grey for the rest.
   - The flexoki theme has lighter colors for dark theme and darker colors for 
