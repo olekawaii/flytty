@@ -7,7 +7,7 @@ cd flytty
 ```
 
 ## Usage
-Run it with `./script.sh a b` where a is a file
+Run it with `./flytty.sh a b` where a is a file
 in the colors/ directory and b is a file in the templates/ directory.
 
 Example:
