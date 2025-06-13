@@ -8,7 +8,7 @@ error() {
     exit 1
 }
 
-if [ ! -v '1' -o ! -v '2' ]; then
+if [ -z "${1+x}" -o -z "${2+x}" ]; then
     error "missing argument. expected ./script colorscheme template"
 fi
 
