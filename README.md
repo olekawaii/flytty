@@ -51,7 +51,7 @@ Having multiple grey colours is meaningless because there's no consensus on
 what the differences between them are. 
 - Is white brighter than text? 
 - Is bright black brighter than dim text? 
-- Is black the same as the background? 
+- Is black the same as the background?   
 Who knows, but I do know how all the colors would look in the tty.
 
 The red-cyan colors in this format are also missing a bright/dark variant.
