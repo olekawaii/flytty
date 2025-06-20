@@ -3,16 +3,16 @@ The flytty script is posix compliant. Install it with
 ```
 git clone https://github.com/olekawaii/flytty.git
 cd flytty
-# flytty.sh is the executable
+# scripts/flytty.sh is the executable
 ```
 
 ## Usage
-Run it with `./flytty.sh a b` where a is a file
+Run it with `scripts/flytty.sh a b` where a is a file
 in the colors/ directory and b is a file in the templates/ directory.
 
 Example:
 ```
-./flytty.sh colors/rose_pine_moon templates/freebsd_tty.conf.template
+scripts/flytty.sh colors/rose_pine_moon templates/freebsd_tty.conf.template
 ```
 
 ## Colorschemes
